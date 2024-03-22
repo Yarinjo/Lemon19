@@ -8,5 +8,6 @@ import { Component } from '@angular/core';
 export class AppComponent {
   public title = 'app';
   public textIsVisible = false;
-
+  name = 'My name is Yaroslav';
+  tooltip = 'Help';
 }
